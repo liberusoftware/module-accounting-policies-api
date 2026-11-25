@@ -3,7 +3,7 @@
   "name": "accounting-policies-api",
   "display_name": "Accounting Policies API",
   "description": "Scoped API for effective-dated accounting policy rules.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\Accounting\\PoliciesApi\\AccountingPoliciesApiServiceProvider",
   "requires": {
@@ -21,5 +21,5 @@
     "Policy categories",
     "Date resolution"
   ],
-  "default_enabled": false
+  "default_enabled": true
 }
